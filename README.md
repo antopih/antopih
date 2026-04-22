@@ -1,7 +1,7 @@
 <img align="right"  width="35%" src="https://github.com/user-attachments/assets/38cf62cd-0385-47dd-a725-9c8b43661be9"/>
 <img width="154" height="56" alt="{8B1A2F13-1A74-4AE5-A10D-5A6F979124EE}" src="https://github.com/user-attachments/assets/a537add9-311b-4556-a7df-532a18021c5d" />
 
-I'm Antonia game developer from Chile 🇨🇱 specialized in 3D and programming.
+I'm Antonia, a game developer from Chile 🇨🇱 specialized in 3D and programming.
 - Currently, im working on my thesis video game & my personal portfolio website, where I’m learning HTML, CSS, and JavaScript.
 - Profound interest in creating worlds and innovating mechanics.
 
